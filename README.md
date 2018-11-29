@@ -1,3 +1,4 @@
+COPYRIGHT
 # demo-1
 
 ## Introduction
