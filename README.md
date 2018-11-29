@@ -1,6 +1,6 @@
 COPYRIGHT
 # demo-1
-demo
+demo for demonstration
 
 ## Introduction
 introduction
